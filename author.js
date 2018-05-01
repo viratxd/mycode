@@ -1,4 +1,4 @@
-const names = ["Virat Choudhary", "Nikita jain", "Rohit(owner)", "Somalia Singh", "fatima"];
+const names = ["Virat", "Nikita", "Rohit", "Somalia", "Sunil", "Hazel", "Fatima"];
 
 function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
