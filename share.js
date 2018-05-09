@@ -5,3 +5,4 @@ function getNumber() {
     document.getElementById("share").innerHTML = randomnumber; 
     return false; 
 }
+window.onload = getNumber;
